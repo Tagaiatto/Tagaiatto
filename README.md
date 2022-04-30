@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as an intern in development
-- 🌱 I’m currently learning TypeScript, React, and NodeJS, more focused on React
+- 🌱 I’m currently learning TypeScript, React, NodeJS and TDD
 - 👯 I’m looking to collaborate on React/Node projects
 - 📫 How to reach me: https://www.linkedin.com/in/edilson-mn/
 
