@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working as a full-time developer
-- 🌱 I’m currently learning TypeScript, React, NodeJS and TDD
-- 👯 I’m looking to collaborate on React/Node projects
+- 🌱 I’m currently learning Nest.js, Node.js, React js, and Laravel
+- 👯 I’m looking to collaborate on Nest, Node, React, and Laravel projects 
 - 📫 How to reach me: https://www.linkedin.com/in/edilson-mn/
 
 
@@ -19,6 +19,8 @@
   <img align="center" alt="css-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="ReactJS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="NodeJS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Nest-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="Laravel-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
 </div>
 
 ##
